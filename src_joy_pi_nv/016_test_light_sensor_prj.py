@@ -5,7 +5,7 @@ import board
 import RPi.GPIO as GPIO
 from JoyPiNote import LightSensor
 import ress_cap
-from src_joy_pi_nv.ress_cap import buzz
+from ress_cap import buzz
 #Préparation du buzzer Pin 18
 buzzer_pin = 18
 GPIO.setmode(GPIO.BCM)
