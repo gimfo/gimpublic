@@ -6,10 +6,11 @@ import RPi.GPIO as GPIO
 from JoyPiNote import LightSensor
 import ress_cap
 from ress_cap import buzz
+from ress_cap import initBuzz
+
 #Préparation du buzzer Pin 18
 buzzer_pin = 18
-GPIO.setmode(GPIO.BCM)
-GPIO.setup(buzzer_pin, GPIO.OUT)
+initBuzz(buzzer_pin)
 # Création de l'objet light_sensor
 light_sensor = LightSensor()
 # Création de l'objet LCD
