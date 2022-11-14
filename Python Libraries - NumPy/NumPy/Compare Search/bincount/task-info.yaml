@@ -1,0 +1,41 @@
+type: edu
+files:
+- name: tests/test_task.py
+  visible: false
+  encrypted_text: XIlL2u+4gqNTqO7La77YdQTjn1YHMq4gonGgZk0sm4fHoGsxF4jZs5VLpNbSNaqSkhd3G+EOpiqlVu1KH8UnTH0Ug2v+mOVyM6O5swzHG5i9BSGfEQzS2J/+so0q0L0HpV+LkwC/VV+6u/ttmHnxRqt0JYltzE5SbppOR8LNS0dTclAGXd3B95Ck0F7ev56WShwUxeVdEQdZYMjHW8+NF5T8CPKIVqgFBJBFM4bpx73AEIX0+GygGLUNoIYkj7kRJhaEex+phkgjq4puuNqmj8NH2g8eGsPZR1dHciN3Z/C2NyrhGjMN7noLHNTyUHLE6OZeZ6R7cDZUO+FeruwqQ2FCKVmnfL2lF27agRaLV/+ZWj+UR76VAPr6kpTAHsQZEy/jOf+s6TairJmX8HTnA+Dn2XZ8rVezcE4saw68Sydu/W/H5O/MntrKtuSjpJr1WaG+J2hu1rUz3aSfoQNrsJ3m3yIgB3b/75xNMxNkEx9HgCs7fOFbw2VwCKXyj19ZnbdoijeU4zNk9sH4B1rGNzQEJg4/CUNDpmck6KF42Wa62Xi4b5Rh6n6MmG/g1h21DxyPtVLImEJ59Fss30jzUVh6WzJSIZHRmT0Uo7x/Vl+Jc4MnoMfhKNhkoXDwBnLyxxy6Aqnm4hRsk/4ubDyW2RJrZk1M75fhtE9y80p29xqld+F3s+sc8++jaV2/EjDaW4aOx9XaFmE4zcxgM9w0yuz4uXC259BvVaCN+Z/ebRlyId5I3dxZAD1oYjfwZWqD
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: tests/__init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: task.py
+  visible: true
+  placeholders:
+  - offset: 206
+    length: 6
+    placeholder_text: '# TODO'
+    initial_state:
+      length: 6
+      offset: 206
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: pnkCcgjHNb5EQFonKL/crkzN7cA3XPtAGZOX75Zob3A=
+  encrypted_text: rWaGTjF1uCxfAA1JULqDg/x2kK6jfnPFSIkFGDmnwOPvucALa9eZHrQ5/YNnB8gkrfKL6FH71B32sC2zQ85HNKjEZTbP9hmWbhA+TS9Vw6Uvh3sytp+rXMuLMvMqjmq92Eaqo35C5o3oDczK22pWzleopsmN1Uh+9/4FC8bJfHY4r25Upqdym2Myp6xUWcV2AaeqLkTra12s6ndOGM3M9jMn2bJfslz6RngZJPRGv5aYhvVj5RKk1nLsiSqVMBisy4baB/Nfsb0q6w4iJtqK0H1EV0dUnbyYcmeWyKePsFm74BP/sE49Tsu9X41+gYPS9fJaq72TpJ4Ob+L8x3lyeUBGCoRrGul7jqlOgNA2uzQpQLl2AMDwJnTzg+LKwN+QoVBp8mKw8ZvUDQ4RmOaRdHfVU4bshG118AC+56lSMpLURB+Lin3ygYxzFFSuTmWGSI5B5vdCfXVDDf3BUG8Qmg==
+  learner_created: false
+- name: data.csv
+  visible: true
+  learner_created: false
+- name: test_data1.csv
+  visible: false
+  learner_created: false
+- name: test_data2.csv
+  visible: false
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfVgS9Eri_kV2y3xKnSqKW2zNssakK8ilXQfpetV_ZNh9rioA/viewform?usp=pp_url&entry.2103429047=Compare+Search+/+bincount
+status: Unchecked
+record: -1

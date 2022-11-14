@@ -1,0 +1,36 @@
+type: edu
+files:
+- name: task.py
+  visible: true
+  placeholders:
+  - offset: 114
+    length: 4
+    placeholder_text: text
+    initial_state:
+      length: 4
+      offset: 114
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: khjA7nSvMjp6RxOH6F/VVuLj/1c6+hpi7cuEtTh2ym8=
+  encrypted_text: rWaGTjF1uCxfAA1JULqDg3zSxD3fesAbdo8XHKzgi+ZnTXaTm58SYQx3bYUb5RDbE5yreK4jz3ZsZRCrPKJN8+PDs8GT/Gxd5QTDoRpuqia3W+s/UTC14uaqUpHm0Ruv4OvWZ89QHQCN9eu8dbmOBia1Q6JpxGIXVfU49PEiJeN7H3VY74VrWuNyJ3AowWHVNAThPqPtiDN4rB30m6cjxd8w2x6xjzIcJ1RigYoS073SZegHsEeoAYF2JsTNarjF1BWMFl0R1z7zb9do7txeny0sWPNakwEDXq3HtuOiUBU=
+  learner_created: false
+- name: tests/test_task.py
+  visible: false
+  encrypted_text: XIlL2u+4gqNTqO7La77YdRynr5SKXsUjVOXfwEVQY1SQBRqOmMK4fWCM+s5FPPvWwbHw67wJNVY0CaPwPzGWO+9DrhxMHNrWnVGO2pPnRvrLZQY3Kp+iIXdCt6HPT09UpbZXLRa6oFoof0817+6XN2Yr9ZtK5rnhFDs2bk09mYp/gBCBdDv4FlY+nbFbxkvrBWNc3bZIlDe8CStIoM0t+trFNIPBD1KwW5B/EMoxmVR1sxUAjLZq6WWqCN4LfBw5VdJguj8+jE/9srh3w3pOEWg9tr9y99O/zQ6jghhxZxFUHL02bufIiLcPFdXvSMSL
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: tests/__init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: text.txt
+  visible: true
+  encrypted_text: jjmHPoZVGpnZWzvFpdtThEaXFJP3DkNP9xgRZKPVxF92aU24HTeVi+oEkfnV0I8KcD8Ui+da2zFUKXp35swxVI0GUC2zbswaJxQX/6DuYF36HKAOw1N4Iy74vGOUIIr9Rn4vnq+amJwy/MZ85PU2aTw1shQuBzQ1CxlrSy3BHvCsUyz4Vh7rxp3ao1kHDNM9b0A/d0btjVYG2CnK4/RGqqraYJxnRkI9I1G3l5XFC+KI51kMQOjSj5DzLxEWVqGTSL6pjuFDyHvrhNvkNLxeYP571sb/JRT9AB0Cs7N0RGXahA/a/O2q1upxL84it+YUzOR7PIjlnZTqkd8JO0MlkyVAxgGGMuiDK80sJt6AxcAkdETkZyCwqrgyplBM2+bUjZXP1n65+ZwyNIAXN010R0d1AA4iWlx5D/EMQEFMxMXF/yDqdJcNNyOTaenivjjVhIn5/NiRy/SKQk9lTmyzQdRBehl3jSiunCtZJ5ih3dTQdRGCkHqfYoZg3Jz8bazK9hfBri+kO+ARtDEBhsecznuqRReFYUhIZGMolMPZhKyD/WxVH+ZYJJoR2stzBhF13SU4tgxrK9JOZmsI5ikIyKIAE9/gLqae57+WYOAZF382LP5ygnGIapRRPC7eFbDoVx5krKAQyp/gIS9RsY7nCvRq5I895pr/3k1pgtWJH4ZN74YQPp0+DeaSkESOVj4VQrlbm3eTx50C59U4sIT+nbzJ1XtL94XW8IZnD+eWWfgiWN7I4erzngL0u5BjdL+m
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfVgS9Eri_kV2y3xKnSqKW2zNssakK8ilXQfpetV_ZNh9rioA/viewform?usp=pp_url&entry.2103429047=Arrays+of+String+and+Unicode+Values+/+numpy.char+Module
+status: Unchecked
+record: -1

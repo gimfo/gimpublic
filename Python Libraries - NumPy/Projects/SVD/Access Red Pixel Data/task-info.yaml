@@ -1,0 +1,35 @@
+type: edu
+files:
+- name: task.py
+  visible: true
+  placeholders:
+  - offset: 132
+    length: 48
+    placeholder_text: '''Slice the original array to get red pixel data'''
+    initial_state:
+      length: 48
+      offset: 132
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: XZlh9qrbehC66wXjIiA/HA==
+  encrypted_text: XxoqTfFTDC5DZgzD72IOyZ1QGfs04yaN0HqNr2dwGjs4cRfn+Wi/KhPmZ2V/Dw5L/dEMnYQq+CvLdAmxQRrB0nHw8leE9wO2ubQOmDV5QntwcGxjibJ5pDbPEqKDepr9pOP8GlbKEZYa8jB+OMvyNhnsbyzKdYTEeEPJ4NQCtSUAdY7Q1uzXsruXEdPG4G0ye3ehCZlUhWzJ1zCsUkiHhAsayj3lBdGlqLuxU30nEoiIedBfNDLug2yUhrzlxxYALXiadr7DK07/e7lYBswWDesU1G2LXxqSkzf7clSzeyaUb2F/f2uJSNm2AFK1RYcEqVOGhaN2kbYqCfc3z3CsNYinnYlZ9bwlhxpCoH/8kk0=
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: horse.jpg
+  visible: true
+  learner_created: false
+- name: tests/test_task.py
+  visible: false
+  encrypted_text: XIlL2u+4gqNTqO7La77YdRynr5SKXsUjVOXfwEVQY1SQBRqOmMK4fWCM+s5FPPvWHlNfVMGN7tc2UnoyvFkeRVeKpI6rvpEH4lzsbGSUVp0L5TtKPzutG1auM8lpFTa+Vn5R7BTR0kkzQDLNoPz6YG0q8OmP4sJKAmwb+z/MgAA5H93q3shb86hye0qMGP+kUpd3CaQKA3S7KcOewNgnvX0lQUyCtKP9tftPdss9W3PzuQWi9NYAy1MswDi8625Yb6IyfC3MQmds3Wju4TsmBF4S4BkG35umfPI33VIpXfwP7FsT9Kbu/3PZhWWSnFN0ndwnjKx5Zmez8rDNW5SwumvR/AVoi8yj4qghoslHwnYAMsE4RT4j4nAhKK8UZLeZ
+  learner_created: false
+- name: tests/__init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfVgS9Eri_kV2y3xKnSqKW2zNssakK8ilXQfpetV_ZNh9rioA/viewform?usp=pp_url&entry.2103429047=Projects+/+SVD+/+Access+Red+Pixel+Data
+status: Unchecked
+record: -1

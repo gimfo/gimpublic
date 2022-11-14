@@ -1,0 +1,61 @@
+type: edu
+files:
+- name: task.py
+  visible: true
+  placeholders:
+  - offset: 155
+    length: 40
+    placeholder_text: '''Use slicing to extract the red channel'''
+    initial_state:
+      length: 40
+      offset: 155
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: AGCG7mRYhSJalmFG5ZHuFTLHVZPtQqrMJCCIKkcoOlU=
+  - offset: 212
+    length: 42
+    placeholder_text: '''Use slicing to extract the green channel'''
+    initial_state:
+      length: 42
+      offset: 212
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: AGCG7mRYhSJalmFG5ZHuFSRp7lOROPp7isoi3Ec1NJU=
+  - offset: 270
+    length: 41
+    placeholder_text: '''Use slicing to extract the blue channel'''
+    initial_state:
+      length: 41
+      offset: 270
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: AGCG7mRYhSJalmFG5ZHuFZcKpIsqFxhPWClkVz9dV0o=
+  encrypted_text: XxoqTfFTDC5DZgzD72IOyZ1QGfs04yaN0HqNr2dwGjs4cRfn+Wi/KhPmZ2V/Dw5L/dEMnYQq+CvLdAmxQRrB0nHw8leE9wO2ubQOmDV5QntwcGxjibJ5pDbPEqKDepr9pOP8GlbKEZYa8jB+OMvyNtKd22xKuiyLQKMeE+DoSJh0uSG/gmGHHw2hGCb6lCT85bYFsSK/RI5weHD7dii8axRODMH2vFrj9Ht6UDCdhdwvPz6l9cLHoBw8Sdob3m2FY5UiCP14ptDEacQr3fsTK32vUfVNOf2/XBChfSiL5gAYrkMBxIfel3xkO17jro1pbUunGB7c8QTHOOnO5weSrl3XaqNcgXVqm7/VtrfToW6E7lNuU+ZVPW4o6wBc24UkRWoMBBWHfgqEJvbel7qGt9msTnYBNbdNBr+mLtLA48zVZbkENc2wAGzLAMqLSNZLiaK5SdEAfuyfsiE5TrlgErTwp4/YbEJzXETKVbyWxxJ1Y5t2syWh0Kd2TmD5I3dZFlE/SRhdOtBwbgQ6QZY/GcXMIXcmdrZG1LITZVeDCwe0EhWFXNGkqYofdzyMq03Y2k50kt3ODX6o8uulo38TAHMpNuTkOWTdSLusxlBQA2m6hBTs2gK5KNYDUv3W1docrA1ezwCFwN7T4v+tg0NN7nWxlbW2K5sPnl7wCtFrDpc=
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: horse.jpg
+  visible: true
+  learner_created: false
+- name: tests/test_task.py
+  visible: false
+  encrypted_text: XIlL2u+4gqNTqO7La77YdRynr5SKXsUjVOXfwEVQY1SQBRqOmMK4fWCM+s5FPPvWPCM1puYYcSjCOMcS8UTD2srgun861u9Ye8jaleVy/t9xpZxa336PHdGmdPvW1Jh7Bdl6IZHWzDZaWAzTvRpIkhiSVbMDoSvfJ9wqvbFisK92G7qfsFd9wXfxQLTkL2pFQ+tfzuN3VaiS8Z9AFG/+r6Cf4KNvkzWfJNXYMH5ZS+mK1ujyV3OBkB+mXgTltpJvwA4UiM5fNG9tgC4bi2dztDeKWOBq7ClS8111HEwKqL/goLbLvxrQCRKb9Ih8ZIsIU+fSKLhJOiJW5+qkw/Xq7QjFtPlYLTVcsKiHizYQOzhdsAJmeeNio6U5HqSZP9PZ5nod+Cn+hHMP21wOgzOxgWXEJ0kLDS9hd/6d5E5eYXZnAed6Paq5la4sB3Qh/Et0jbaanrueYAJPHQG/luDtcfFnDd9Oo2Hf36Ttyshbd4pKHA9EwHtRK/36jWbQDhLf3bUWbUpUEEk7H9xrg1khX+DStUeyaLUYXtDMOMjddEfaxMu2FWo3MKFjdUcoj70N7G/j3k+BgZ65EaKOlMhu7+qGdN+0gYUo+djbOqAd97jwRoMhlGvTXsFxE0Q092xWvfYkumtJQ7Cv7pYDPPQk3M49azk30T6NykE7s8jH/Vnqqxh5jSlg4IAwd+fWZfubbnfeDWa886I1n0qJEuZtzKu9J7/T0B4FsrMbVJk7nvAsvuRhhnAvHClL457AlBXuUvBqqkgMWVTXAgSuB712DU5edDlw8TPgHUbDkSSleTDnIujxgcfJDmoDg8BbHt8A2Cr2w93fIsACBFmI5xlqJZqRpaTl3A+eNm0/BPN9vLfYANhR34ov2T6SLhqKdLar
+  learner_created: false
+- name: tests/__init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: image_array.png
+  visible: false
+  learner_created: false
+- name: image_array_dark.png
+  visible: false
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfVgS9Eri_kV2y3xKnSqKW2zNssakK8ilXQfpetV_ZNh9rioA/viewform?usp=pp_url&entry.2103429047=Projects+/+SVD+/+Split+Color+Channels
+status: Unchecked
+record: -1

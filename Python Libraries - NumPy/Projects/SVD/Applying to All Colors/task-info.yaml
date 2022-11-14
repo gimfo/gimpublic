@@ -1,0 +1,45 @@
+type: edu
+files:
+- name: task.py
+  visible: true
+  placeholders:
+  - offset: 157
+    length: 55
+    placeholder_text: '''Transpose the image matrix so that SVD can be applied'''
+    initial_state:
+      length: 55
+      offset: 157
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: 2E2lnoFgJ4upN2wt5SGMBTIRrwUI0HuhVC0/NE4I7FHhbjlgXVzjR1kGjG10NwB7
+  - offset: 224
+    length: 38
+    placeholder_text: '''Perform singular value decomposition'''
+    initial_state:
+      length: 38
+      offset: 224
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: 4OwND6UoMUQGl/8YPpOtlcUJ3qUS6J+0TJHyr0U/wohdW9HfyvVSlrTxlK73SoJN
+  encrypted_text: 97SNo8AldC1RNuC3OsX5V0Otn6D+K2Q9vyQnAj1ws1GUXWrpbyI+mMAPYgcqdfBh4R4kMt1/03VpymuYGG99Dp8dIZUtlEuqM5mHo2GdB7uPZGVaBITgkIueArDxfvXlo3EdbSbPRtJBMOcw/EmY1aVSFBVG40r6KRJMC6UE+M1uKKzPeB5jyV0O8FTvLUGmMPmuuBColtjvviiYUOhAYzveu8wY+fg241FUUF+0ujYI0+IGOOmk88LaAUcPT7CLO0GXiqL+71D+cbSDFlr5MH0Ok1S3RwennGHzfUfs3qlaYEir1I1uel7Cr+rC+98eAEE9qRIOqx1TQlr45ItP325RB7WQr3eOdHVurdXsBxB0u4OS4a/MorZqj/v9DOwXY2vjEllWWqmiDaK425HUZz1SjRr9mgvt64zyNpxhAaqNuVDSqucuGMBpjzkEGT/Iu2Dgacx/fTIZbZE2hqdT5Jx/SQ1pTkySZYsxAuLF+xaL/EHE30TIv2aIKN9Fft+n
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: horse.jpg
+  visible: true
+  learner_created: false
+- name: tests/test_task.py
+  visible: false
+  encrypted_text: XIlL2u+4gqNTqO7La77YdRynr5SKXsUjVOXfwEVQY1SVX6RM0HzzoIiGbWUbTFdEG1sb6UdP4/d1qDpR3i+lAwMu/8fC9nozN+wZbxZ40fX/Diki/KiMtH/REVccFyOg+ryDlolhghapGf2wPmKxJvmqxt54b7Qc0EbjZHUrmvBkLCEsSXKeSV/4wclyUEHc5STrG/+JWFMcNx3GX65c/7r2v8PxylhplAhVpXG68p+8uWkKXqV45TwLhPSfoJCIzntYQgLPw+U5wQS0gDHgXoG1AyqKdc5GhkpsIXKxphWAlMH6XDVr4hkpASrqeN4HwF2fitjkq55bGkL7WbhNnbTv07/NEKZdmVEUt24NK4y/3hbJ/Nm7GIFVbkZeFjcB/UqbOMw7R2049HHImsRRHGeiINHX9XvRMQvljJ6Tt3wrPpCFeRWeshmrTWMrvD+vH/tOXCQVj2zrVZfKRIC4tg/aoVnFjXXJKzvTXaFSEbCmslkE7zt6UOAVEeVEjCamS28CHp7q2H1yDlNSm7tbMfYsrsdx6J5gpq6dOyx5khjQvYapmv+6SsXRd+nAnLuVtLVVlNbWndRw2xPyJpRzxwU+3a/32vOKlKzSDLP3geHXJhjkw3sbO3oHw7Zgp59Lv41Cz4lwhhRJgpn8cm7fPhw56gBx5q3QJ2aXf2CGF3smVHObpa5vZa446fLTIjUOb+Fun2SnvAV6smKowp9pmonxdNuknNzoI/XLAx3C8QLQ5W7u0Ct06YqnCjdVWJ8e6hCnQrFdWAAtrRXkCRWeEjayX/pKP6nut6qHdfRxKstIXw5MEXhnf0ocLmrD/6/gjy4GYn0m198DwreMjQOgN2U+/iP6YmNEpj3OdoP4CdQ0JQ9qkXZzB3j3xEriRCGihk2G3KkvytNvzKDwE+0SFsu5dC48LPgS4JUvuQTDDVrWE4vs8PDGpEXNznpefLZOE/nj8haHQJKVc7xu1+xhMU+thmih+1iV1VQfeLcZxJgE++O4HCg+IOy5IO7Z/yd3JzETm+jarFnHNkIzWq+yMgFh7dmhCCpk6Hv9F6DNrwYiLy2tmM8YwHBGuOAAHBExT4EJ/CXcixEpsKfzGVXj5m2uf6TR2jNd6SBu350mep6ocvhI5ebZACI8qppr+VmOW6isz74Z5mi8tCr5UsveukppeOQwri5lANIZuiMDyZPKR1lGNc3GYI25p71ztKB7SXYBnOfNZwbRielVHj4knNJK4wMnxaXskA8n/tE3YdmzL2KU7YQSvQY6AGIoz6BXoOlCM/QNEu0xfzGG3+tFtF/Fc1m3G8eHzN6wWNDab4VGRQ4QmFs2p3oVw83AuAS3y/InNcCXv68ceev7vSu9OByRN1j7fd3+MUAETz3ca+/JOJbGW3RVyHhZzjCzGp35IWSUX135bFrr23bum48oQpQMO2gz1qj1mG8Oana7Q0A=
+  learner_created: false
+- name: tests/__init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfVgS9Eri_kV2y3xKnSqKW2zNssakK8ilXQfpetV_ZNh9rioA/viewform?usp=pp_url&entry.2103429047=Projects+/+SVD+/+Applying+to+all+Colors
+status: Unchecked
+record: -1

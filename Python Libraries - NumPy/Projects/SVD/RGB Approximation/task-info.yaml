@@ -1,0 +1,45 @@
+type: edu
+files:
+- name: task.py
+  visible: true
+  placeholders:
+  - offset: 436
+    length: 29
+    placeholder_text: '''Calculate the approximation'''
+    initial_state:
+      length: 29
+      offset: 436
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: ERI5sDHQLgP9RHmFTZXs2Rw8iqDhDAhhjmTc8EeV/wKoB7atvf899gqL+lUzp639
+  - offset: 478
+    length: 18
+    placeholder_text: '''Reorder the axes'''
+    initial_state:
+      length: 18
+      offset: 478
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: yD9mbiUdG4zIXW+z/RwKGKJF9LtgJPj7wa5dnrM2gqY8F2/2mfcZqxX4u7MgxYQi
+  encrypted_text: 97SNo8AldC1RNuC3OsX5V0Otn6D+K2Q9vyQnAj1ws1GUXWrpbyI+mMAPYgcqdfBh4R4kMt1/03VpymuYGG99Dp8dIZUtlEuqM5mHo2GdB7uPZGVaBITgkIueArDxfvXlo3EdbSbPRtJBMOcw/EmY1aVSFBVG40r6KRJMC6UE+M1uKKzPeB5jyV0O8FTvLUGmWWvC7OqUgCa+l1qfcAhgYMwyCuBi0ww1AmWC/uPV0jc7O54YPG1laH+mvXJHutgAAnmR/lU0rF4mb7GQZdU23Hv2/AjzxuEeWc8iE/0vRClJQmC5vP+dJ/GGmGWcjaOrKs3f3wOwfRB9KUQ4RujRq/AzBAVp6iE+dI3um3qsEjcjdKvWUAHRraj+ULLpMB7QdK4bDYebZlhtfF4uxtFHSvToEbNEobFRjU6hXQ1Supreogn9z2/x2+Nvh0OdZjL2FjVkHRamJfvMbxZm3WvrjtZtL3QEzPodfSPdBrruFydaDqt+xypANJW09bYKK5aal28kgCrVxcMRwxlPcx3y5w9OBVRNjLTON/2HIYCwTPudXRKApEqJW2w4rlJ0iz7Sw75BXtoRsRBDkZnRfMnaxhkXWxZdPorWDiEGp5/U3zax1hRejtliuPhIEEAfR8ZhOMIuRJxBrrxwxIDMHyCSdZWIrwvueYOphuM13TTur9eXfh/ueK/d9Bn1wLSiRnaA4UAkrRLQzJ2LKC8oxpwn3AizKpCJQuHaxn6isb9nS+elIrVf34YrZvULl+nrBmHQ
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: horse.jpg
+  visible: true
+  learner_created: false
+- name: tests/test_task.py
+  visible: false
+  encrypted_text: XIlL2u+4gqNTqO7La77YdRynr5SKXsUjVOXfwEVQY1TA9ELGvWXGCg25lhddyrfYF1qycQGFZ91GJGdxxXKoiclYmuqedqxeWsXdK+OrvpmGsptjaZgQCE8+08r441ktERM2s+A9QTdYQWw1S+CdwglNI4lKp2uUYzIproDCzdnyuux/kU/cc5uqcIoxKaqMVauG+alQGc+Z0CpRwXnL6yaxz88W6QL2ppYEbMn6DmfNpc4Ex2IVXjZxl8cUEDxeBV9O7UQK4kJw56MDwceOGGvSKAsb1f1/2ux9UTS4uL1zEamfw41LL6/Y6np9wCQKJdDQuNuPsC/IrRoq1oVaUVoVQC3zbiok/4U1fidfyQW3RNpRu2IPwRw7wFK5kGCl1FWK/zyP3+unRkU3XQpEC7JyrunB3+WGXt5p3Legn2K6sWVDVYvUU31fZs4mETkS2mlCZAPABAzI32rtvwqfauInhVEWo5uCxc6mWhvMywiygJVKjhb7ztCMtBq70QpBRgIwxIJPKCS+ixfJ77KKwQ8jeyInFcCq1dbZK+3zAjy3CklmY3z+Iot9K5U8bkrhvGa+KX5GMV9+JME+Naf6QiaCk8549lnP0IAgalE4p+5k1OeuyrWjG2MFB5kXlCVjyDKy3MdFSvJtokszZgoAHvrxDEhjbN1IY9LLjzjPn2SGzH3a6G2F9aFZ4xV0ycq4
+  learner_created: false
+- name: tests/__init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfVgS9Eri_kV2y3xKnSqKW2zNssakK8ilXQfpetV_ZNh9rioA/viewform?usp=pp_url&entry.2103429047=Projects+/+SVD+/+RGB+Approximation
+status: Unchecked
+record: -1

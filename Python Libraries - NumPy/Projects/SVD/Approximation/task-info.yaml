@@ -1,0 +1,38 @@
+type: edu
+files:
+- name: task.py
+  visible: true
+  placeholders:
+  - offset: 307
+    length: 25
+    placeholder_text: '''Build the approximation'''
+    initial_state:
+      length: 25
+      offset: 307
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: Kq/YtHe3uuhhWcPOBar2am/vV0mJV4XsX/AfpPJnqxU=
+  encrypted_text: 97SNo8AldC1RNuC3OsX5V0Otn6D+K2Q9vyQnAj1ws1GUXWrpbyI+mMAPYgcqdfBh4R4kMt1/03VpymuYGG99Dp8dIZUtlEuqM5mHo2GdB7uPZGVaBITgkIueArDxfvXlo3EdbSbPRtJBMOcw/EmY1aVSFBVG40r6KRJMC6UE+M14h5Fxu8QbQxN0pRPFXDvZGmT7m9yT1KCcv3BSOZhJvEEdp+KpC8tw4STpWlBif32PfTw57RMz3/qKL3jV9STI9Nfan+akBIPH4dOO3iQTltUyIOCUF8uxhBf7fYqHwMXFZatdE3EyVx/T25farUlyZ5XNSfPNKzRBR2V3BOrlcHz4xTzYMH7QBpdLWlYP1bp3jTJRO/gGPDZrujhosuu9QqHwds0s3v0rtdeSGHStSpUOTiwBby+nwNFJhk7DbnIZ2wfUlUcPSTnJE22JnzHv4S647Paxa+FL7QmCL3n00YBQYKwAmYZcpgDDWL/k6OF4Lt5mP/cGjL+JvQmnKd44oHQ6FPyQi0gENXeYI6hKhHu3wKm4JmZHI1DERPLWLic=
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: horse.jpg
+  visible: true
+  learner_created: false
+- name: tests/test_task.py
+  visible: false
+  encrypted_text: XIlL2u+4gqNTqO7La77YdRynr5SKXsUjVOXfwEVQY1TA9ELGvWXGCg25lhddyrfYF1qycQGFZ91GJGdxxXKoiedehuBYENFfBLPIfASUWAd2MR+JuUIPZvgGhI+YppK/sY688NK1Zf0pdBND0mGAIJJWj3uq59/DSMqWEYcWqklpWd2DLkFfpHxfLlEEiQjd/z08gAFuPV8+Lbx7Vb3zsJ3rby1cevD+Kb/w9nH/Y1EtH2sI8O1tafF0p4//aiRExq32mgjacRoFjM/ETUHaQo3wFvxUO+uSwxPLhqEMUjQjevKb+VfFgCrLf2l/6ePg0fxOEA7o2tz0ylvYc5VwPoD0agvCaQxwLN1B+0uaXytVo6ClPXknv5UZQFZPwoX9CxYJCyvsi8mHcmx2qtljuOyPSk42IaIwGcL02bAxufNSJzuy8u2XcuJkDCaTjD/9/v16+VoKfabO36uAv80aSl8UI9/YNXS5fRRfnryZ4KvTxsjq1NIzbt3ZCzmcIV5GJkWNNeowN5dcmG6hNj9IBmpfN7qczV69MHzy5JkTNCMUp+5eYEdbqTTsN8bjH6JfurkcazfcxF7iVsCMkvYLv5l0j6DM8BrcY+oOkp0YDVZfReAHJX7e8MXAehSiDjhpV+he38lDp18RVb8JvklAgxC+m4o7d1cyOcT0D2aAT3A=
+  learner_created: false
+- name: tests/__init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: s_values.png
+  visible: false
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfVgS9Eri_kV2y3xKnSqKW2zNssakK8ilXQfpetV_ZNh9rioA/viewform?usp=pp_url&entry.2103429047=Projects+/+SVD+/+Approximation
+status: Unchecked
+record: -1

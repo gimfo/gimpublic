@@ -1,0 +1,45 @@
+type: edu
+files:
+- name: task.py
+  visible: true
+  placeholders:
+  - offset: 227
+    length: 26
+    placeholder_text: '''Create a matrix of zeros'''
+    initial_state:
+      length: 26
+      offset: 227
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: +kkR74fejr/V9bhHZVsTsYHdIp5Z3Y73j/GVA4Lw/wY50mKwij1nv2QvxQAY9aQ5
+  - offset: 254
+    length: 46
+    placeholder_text: '''Add singular values to the diagonal of Sigma'''
+    initial_state:
+      length: 46
+      offset: 254
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: AtMf4gxswX8FsIxcVMcOe9it7NdDA9u/NFUIF6m36bQ=
+  encrypted_text: 97SNo8AldC1RNuC3OsX5V0Otn6D+K2Q9vyQnAj1ws1GUXWrpbyI+mMAPYgcqdfBh4R4kMt1/03VpymuYGG99Dp8dIZUtlEuqM5mHo2GdB7uPZGVaBITgkIueArDxfvXlo3EdbSbPRtJBMOcw/EmY1aVSFBVG40r6KRJMC6UE+M14h5Fxu8QbQxN0pRPFXDvZGmT7m9yT1KCcv3BSOZhJvEEdp+KpC8tw4STpWlBif32PfTw57RMz3/qKL3jV9STI9Nfan+akBIPH4dOO3iQTltUyIOCUF8uxhBf7fYqHwMWYsuSMDtRIfr1c6reo5//VFvAPBO29PtlgXy7tyaw7xoWoBSY+rTSzGdDt+pqgaCbZpygKnpdRqSDUtHO1ZZNqn9y+FL2VaaLCIqAIIwBnFda4XpHt8rU6zsmv6pl00iacK4Yw/NSzDGaMwuXUCe8Cf1zRk0g/jhb1MeqiFUmvhaCSixUwp+C2NcHCAwrQmDwgDZ0zKZjz7e3aI98gQi7hBHPzqZ2s90JzWQJO8fDdV7E6qfkcsjQupalcH3hSh5mmn6CVoopu53kXIIxoSxJmU9TY9gFoa/F2kKYKqu2VrzN91EJVWhX3SttfmhtWLxq7rBHqO9XhV32vU4PXwy9NoLp74+bWHlFk3+HiDLo8x7BqyOdWJ/jNB2l5cL2q298mqVth9/ZSkMWXSmIkzIxXa1rooy+SxADNcUa//llJ8YL09K2/BplCbvNTRySn1Cmd+oozO9etyLtG9uBdfj1DiMI5AYxjFwbQzV56jN9zsL8kYLx715c0c+pfVp2ShqH63x3RpF8wCdHni9m2MD3NoUdhPnbMWK8lPPJuFGHe6lkKVEjuHB4JB2dkmuJOV0OH7WaTGTjql+Y1DPPraFGI
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: horse.jpg
+  visible: true
+  learner_created: false
+- name: tests/test_task.py
+  visible: false
+  encrypted_text: XIlL2u+4gqNTqO7La77YdRynr5SKXsUjVOXfwEVQY1SLWceOU1rSb/sBdLY0y1/yxLOMhlR0JhUj+8ds7iccFo9F7xd87KDjH8jJrFjf7aXsjgUxMNCYNLjs2CUfLPx0dVFrY3GBkBRA82ebfdXjQ/T/XR2d98Ofe/eosFeWaIZ5kfHLjZnBWeOCUis2m3eBICpiJLRLLSbz85cczlFM3Lr249pG8QviLSYhpG7zVjBU/MweAAcYQYJ3j4C0HIlIugOSxfuEpKXod/1c2qjdnWXIVGhkKaKysc3vYl3JweLONVJqNqScoDSkGdyCCBIBDPq6OX/HRRIBaL5lwETcnCPGFk/bod1smFaZ5UayxBaRupNj0cMt99pw1P0gw3xwsAU6hRiCLqn7ZHARFvT+sepulThrnt2mbYaYmnAxQVdp7RA8T+omuNBDSVK9OmvCr0aX9hRhCfGWFefn+C4ZDikjOxGmheiheDFmuI5VyMDJa8scaID6H55SrJ66+OcNmwnawS6mess5GOknPb/RpjplK26TV8ibDLNF2LoZmoVUEj/uM10RQe/pHf8Ui+G4mRM6TNUnESrFTF+T66DcPxK53fQ7sULPN2sp5BoQcbNS1iM6lzu7+DBpxI/H/sx133o9N9vX+ZncGLADiPHj+CFOdGNhgAjFnQTU4M9unofGRSZV1HMP+0gTjpAtdeGwYtJj3yRd47d/dA24zlge/+wFGCEX16SnNIc+KahRE2V6OYsBV5l1D39IkKGhsA6qLSu2gmpuZ+vH48gRObLQtWaLHlG0fE6uF5IYgK3JMYY=
+  learner_created: false
+- name: tests/__init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfVgS9Eri_kV2y3xKnSqKW2zNssakK8ilXQfpetV_ZNh9rioA/viewform?usp=pp_url&entry.2103429047=Projects+/+SVD+/+Rebuild+Diagonal+Matrix
+status: Unchecked
+record: -1

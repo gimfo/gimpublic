@@ -1,0 +1,55 @@
+type: edu
+files:
+- name: task.py
+  visible: true
+  placeholders:
+  - offset: 130
+    length: 18
+    placeholder_text: '''Rescale the data'''
+    initial_state:
+      length: 18
+      offset: 130
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: cW/um0trKuD6fK9wwbLAaA==
+  - offset: 169
+    length: 45
+    placeholder_text: '''Get maximum and minimum of the initial data'''
+    initial_state:
+      length: 45
+      offset: 169
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: OQ2zmPayhDKAbrXP6WdJRfkrcWHHcqcSuHfKdxaNyxM=
+  - offset: 244
+    length: 47
+    placeholder_text: '''Get maximum and minimum of the rescaled array'''
+    initial_state:
+      length: 47
+      offset: 244
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: rYvkk45eRhc5oXbvVM7tQULEQW5ONKRiUlhntI1/0rHV8Gf1+c2qHIJjCbbZ7GQJ
+  encrypted_text: XxoqTfFTDC5DZgzD72IOyZ1QGfs04yaN0HqNr2dwGjs4cRfn+Wi/KhPmZ2V/Dw5L/dEMnYQq+CvLdAmxQRrB0nHw8leE9wO2ubQOmDV5QntwcGxjibJ5pDbPEqKDepr9pOP8GlbKEZYa8jB+OMvyNtKd22xKuiyLQKMeE+DoSJi9KWW8HfnYJPaoFKR/CofWxFdsSrxvI8Ph5AIozMJvFm5G4emh3/6JKL24cZ0t7H9JdYK7xLD9bbXymbRYZr6qUWR4KK0tCPpyWTQkUzefGQ0+f4j+NlVXzrXFlZoPndW4VlEJKV89Nle0O0OFidN3punhkH+1x7Bx5GUDB43vYF03hFD6Xlw6m2OM//ByWG7vyTms1Wm/wGGIei1Fo6jkhTWkfhamrkOCyWu/5OPQn4BqFBYW/f2IVaQysOATultd4E+tgOuasLr4n0mzlqBaEhiQ+iYAx2ujhMNu0BOKZV9pNe7RBj4UfoqpTkamAwjbqoZ2FmV+1Oqk2JTIDBMf19uJbQ2SxOslLR+5ETQ2uA==
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: horse.jpg
+  visible: true
+  learner_created: false
+- name: tests/test_task.py
+  visible: false
+  encrypted_text: XIlL2u+4gqNTqO7La77YdRynr5SKXsUjVOXfwEVQY1SQBRqOmMK4fWCM+s5FPPvW9tQ26KRBcEyRQDNSlqvGMTRs2xUxf6Z0dNOxEAFZbmoN/vf1Hr9K9gcviiok/Fdbuoru/e8CubxcB3CxQpmp+DJJ6Wk3xVOP1eqaLpRD/agMa4XVmee/pB2nfTESZxIOkzz0gfCkUKi5zSMCiQIQiUjThMiTgve/wbo2j9qSvNKE5IWFn9vleTIzNgO5zYQIgm0WK12nLEGDVHPHvYn0Nn1ofNykZY0Aq9z1H5oMNIsiyXBQZJ9ukZNnCGlKSmkH/49wN41N022U/ITAKDsFrLSm0Vg0FTevmFpQlRtihMSEhX40FBeBzbIwWPKAesEjst2CAZPp6auJa3SzW8LgPjPsjl64/2jgRhnM9Z/zXT0XYCnmWJbTPRXDHAvKGyGba8nxZjzC0wK5Dm14kdP9OUJu6agMchHRk5hazh+JJev5d4OXLCAJ1FziPQylMQN3is4y4+UuT/xSRKIKltgH81DzR5Ur2ufl/M3/5F2NoqcgkvbyfyvoGQCNHCXIOBxLlU9bxQ32orSivxbPWCcccIIuOBTBjMmGYQxAIoMFJ9emUJ9hxR9jBTPmp4bEOxw1SULwkHuSfMRakMaRozcH9wpMWFyJ+77+DNyg0H+11POizKSfhgnB6LKsLpr1a2IXNv0iG6ASl8tZHWRbhd6Mc6dm4ACFtgUpdl2izX+9MkwSHAUimVT7M5+HTgopgCOluRPUL7Fzo77UluMuBEX0yIGmsCKklRUtL0ZdNYagZ8z4gkyRuDfsgHxGGTmSEs4JivWy84Kvr0Xx6udMUOw0kXEw6KzaE0NyUuGlk/068NUH5IGCf8G+qHCxOqUlmxPavT7MXqhVjBvSjdAGtrmE0p1EcsGw0UwBKpQvxgnsTSOfbTZ/wAzQfVVmoKY1mYNL
+  learner_created: false
+- name: tests/__init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfVgS9Eri_kV2y3xKnSqKW2zNssakK8ilXQfpetV_ZNh9rioA/viewform?usp=pp_url&entry.2103429047=Projects+/+SVD+/+Rescale+Data
+status: Unchecked
+record: -1

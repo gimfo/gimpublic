@@ -1,0 +1,35 @@
+type: edu
+files:
+- name: task.py
+  visible: true
+  placeholders:
+  - offset: 126
+    length: 26
+    placeholder_text: '''Approximate to grayscale'''
+    initial_state:
+      length: 26
+      offset: 126
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: SFuctY32936AR4BrPfWwGTl4HUWts3QvLozTPONXm7aYl907rdQrZ/eruCV8QTlz
+  encrypted_text: 97SNo8AldC1RNuC3OsX5V0Otn6D+K2Q9vyQnAj1ws1G51AdTzg7SscrRxRQGztYgsamdK+UzgdF4M3xBbb90eFv9qMjHNnwAp6lUHJ/jnTRhKjryMxeZwEdTl5RpSCO8k3N+yILpwi78nMv2lS8KOD6f50BgrBL4ujyeiQDzvdvJwjvSJkMRNaYeLdyMBPc42k+gOhuRHwWlyTkMrD24UAJdCEk3fx417WHwpprpKZiZy+fDEBYsalGO8OxC4+wfEaGrrAsb4S9NZxihzgbVnDecJW3fYhDiX3HDMXADu1oGto9L0Pgu4/kAvJHPUYU7MFK2AfT86WEj+M5ViUYvDCXKYjijXdUk72jVKdf2cxw=
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: horse.jpg
+  visible: true
+  learner_created: false
+- name: tests/test_task.py
+  visible: false
+  encrypted_text: XIlL2u+4gqNTqO7La77YdRynr5SKXsUjVOXfwEVQY1SVX6RM0HzzoIiGbWUbTFdEbT6sgzHynzAC2P+UAOk7ETg7+UeN5fQbDbKJXFjlRs9nQs27f4BXnSx+hsqA0EwsmrKu19siwx3yZ9Z2Kcc4F+46iJGdt5Hg16qOkCgTYtI27Oxz9dLEuDpDFptvgpAZ4hPAKzae7pTT9AO2WmN4bg3mPlmoQaZbBpgAzSVPUuVCP/vPBmxHYJomLjtBTnhJiU2SHsMOcn9yiuq+T7mcPfIMkYsTeJaFYNAfxAb7FQr0LMZ9GK69lytKz3XZn8j0StaEk9N+t1fdPpqnz6wYnaQ9ZxtE55YzYZ5xLqAGUU8haA84caeTLTlPLQWPdY/Vj0TrbPPefWemeGFYyVVwy7mqp1XU/wkTQrBDBb3UYHN2XufroaaZlCqQfCa5K1fQ/tb+hFL6/UrRDqY9DOcU1xhhOmHQmIxcNKMEwv30VOiSxswstZuoQq/GtWw8F9z710329aTKvMEf5I44A3tCvEBBx4Xxz0yk9TLo3foNJaSNq1ojoh4rqyTD1JJ5SylptRLmqY7c0Vxvi6hZ3ASTRW/lN3VX6IfFc4O3v2ah4yTDH56E7R9vSYsLxlJ+nKlKAowwuYN8ZSRltoJ3jbU1/BsWK1LOjf98VfyFDxL4hZldL+OQan3DdWVluT9XJbr0CHmuFZKhlAxnz+KO4Z7D4sVRWoJX60rm06bWVdjCvbpJRXTudwMjzuPYc+lFzF9rnpkMN5GXxMEOHzTD5b3hNdq6C3rOnKlf+/7zpZkmzmrCmj0cj72fiDQ1IuFVtO2z
+  learner_created: false
+- name: tests/__init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfVgS9Eri_kV2y3xKnSqKW2zNssakK8ilXQfpetV_ZNh9rioA/viewform?usp=pp_url&entry.2103429047=Projects+/+SVD+/+Grayscale
+status: Unchecked
+record: -1

@@ -1,0 +1,55 @@
+type: edu
+files:
+- name: task.py
+  visible: true
+  placeholders:
+  - offset: 248
+    length: 26
+    placeholder_text: '''Create an array of zeros'''
+    initial_state:
+      length: 26
+      offset: 248
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: C0CTbp7rxWPKizq542siS79BMSeHH0rgvIe6V2shGGQ=
+  - offset: 275
+    length: 46
+    placeholder_text: "# TODO: iteratively fill it with values from s"
+    initial_state:
+      length: 46
+      offset: 275
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: BKfHM20QyLr0P0IP4Woe7US9x/NEADhM/4WB2RfR3VzplHIEWc08WHfeODtsAxlIQ0PdABOqmSTNuP4bcyiqpggdmLPprScGZDo/AzYdbDg=
+  - offset: 339
+    length: 44
+    placeholder_text: '''Rebuild the full SVD with no approximation'''
+    initial_state:
+      length: 44
+      offset: 339
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: n6qROYtPszEcjxFl7lRbag==
+  encrypted_text: 97SNo8AldC1RNuC3OsX5V0Otn6D+K2Q9vyQnAj1ws1GUXWrpbyI+mMAPYgcqdfBh4R4kMt1/03VpymuYGG99Dp8dIZUtlEuqM5mHo2GdB7uPZGVaBITgkIueArDxfvXlo3EdbSbPRtJBMOcw/EmY1aVSFBVG40r6KRJMC6UE+M1uKKzPeB5jyV0O8FTvLUGmWWvC7OqUgCa+l1qfcAhgYMwyCuBi0ww1AmWC/uPV0jc7O54YPG1laH+mvXJHutgAAnmR/lU0rF4mb7GQZdU23Hv2/AjzxuEeWc8iE/0vRClJQmC5vP+dJ/GGmGWcjaOrtEI4uL7PSLjetHn4bnFwMu3mfG69wIdTNe7IEv4n9VBcyu8+U2lXOaUFbpdx1IOJWoWO9jhYGch7senYVag+70oAED76gna2eAa/9HiouqsizZbqiSRclvmRO1sYlg53Rri9Lf5ntVbvgmVQV70/59O7i7wCG+LiqjJccflIDDa2dvZu7u50+1R9h6uMR4ndT/W9Hr83GiVRNbpgYTG9owQUkjzrTqjyOWpSjrhCUeyOd49hQFmtR/QCT+vUXA4KgFWFcKI4gLnfXGMJCW0BSqc6QHhBCF+4NnXs40SlrArkM/P2dyo5XT81c1eb9UmqopTh6cfAo/iujRCny5JJTuMdHGHwjJJLt01NTZVt9nADMIyRwn/e4MQ5YWEMhbubwMbzJ61aNueu6OBk3suErVcT+xzf8ygkrsHu3oZDZ/w00J+hIPCB3hRf+QFajWR6V/fALedqpNoU2p4+lYnEMzXuUimueGPMwI5/dMkWuCWjkqosLcQm+O+dMf0j8KynB4ybpUbq3JlHAQx7yOVrUIaYc1KAK/yJG1S9wMg4BwDE/eAZ/dAv6LZT7lq9Yd/nmOxBIxI20sxDANHR459WT0wcTdHPGIl+CY6M/DVE0Pssg1VeYopFDn/KWb4mTNauIzDs7YlgWPpZBdsKVC686iis0F7c2iPIvHgeo+Cvib+PcQLTDjm2NYbYdbF2PJkW5l0RxlF6r40KZjhCxywaNgh6dlzQgHOsEDF82bdV1It9QoCAohr4BSogPp/Gvjs6oYLDRp3r3l1g59XmIUmXKCW3k9/cBQ4WDNsV1+Z0XTY9dxK0fhivC/l3XZPPzx3TF5bBiuc681I4RFt9+T5C36pcL5D/kLG8zSG9vW3AOe1n8ns/L7ZQujVzfDYIvAiE+6NnzyGuFztOkNwsvV0tIrguCfkwMGclMYCwevaN7/s=
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: horse.jpg
+  visible: true
+  learner_created: false
+- name: tests/test_task.py
+  visible: false
+  encrypted_text: XIlL2u+4gqNTqO7La77YdRynr5SKXsUjVOXfwEVQY1SLWceOU1rSb/sBdLY0y1/yaV5PzWPKBTXYaJlP0eWx/v2IgJ08e9vsMmYnUWVSQh7LgNFRY0Hor6oIXjBfa7gxnl3dYRidGBRGzdsMtgK7gxIFq7Zild9LSCiZZwLd+pMClOPBCeMGoU+pYMq3KW+r0t8ap+J/2bIcaaRQ4TwzfqvzvzkD1bpA67JqIwWFEQ+YXv/hLbmaUqPpmj7Pl1U4/aVd2j/cZh0KP4sb0rIMvZ8F2v4/KOyiitdeSNWihWFeV2oZMtX0iyt5gTW7PMAlK0QJIdq+/QcsGPf2yix7y1vX/ao1l6BWkyq8F9AgoZUdhZczFpkDc6in0fN6jv8f5izF2/ieJ+tIGS+ll1JLr8iB+phA/j+zFuT/Bxb/J0Rzo9qMv1NzU6IOPa51AwAdCgI0LTGC0vGiSZFBjTkxoSwCniNKoza9DzW/w6gOug0W/XwPE82HLXpmw4FS3KUzjrTNeDW2WOf7HJ28LrrHRrH95HyG10R0B8DjZ7T154HmoaRk0dZmOEObLs94kgZbU8waRBAIvn1QSthyssyCHNyKD/teeqhWzqiD3rbqcaKoQF0+ZOF4Az9Dn+TnGFBjsFMG6vq0MGEP7p6WHaYeGvHvrVE01NNnpqEHigXdCBm2RLhu7VL9+I9DL140DfsMDBfN12pURSUA4I795zNB4LFp3qg+u5l9KlvfSzLJnpsAWVp5fGupHM5rDXgGPPaCO0SOYjrgqMF2GB0jSa8R3L/+M8huOU7GSm2bzXuVVBHA/CaQZ4Q6CsWYDChNO9Y7gn+QY2D017DNbktKckn4wx2wJS4gy1ctVPr4e0iK6TJRi0EXJQ8CBYWUFVrCnYkilUJl3REFlJMmqaqlCFY8VXPzlHEGmPhdiBdyURZ/15YQLlMRd64Ejfm33gHlH4DYsWdksCAXmRxiF4hBoB6OsqzaWAJZDO12cXWn1yeeMLnkesg+ghfCUEZ7O2ltw4ens9Klu/XX/xE6APDkNSiWB6mQTjyGTEMldTpugEQifWQ+e+8tULhYRubI8P/YhX9nzYARqezTI66cG/b4sVTgoKT91ytKrm5bFySUqoawRMPAWeu1yYabs5lA/RVHbefRrP9TJ+HqnGd1DYNUX5LjLttYso4BtmFnsckwOielE19qNheYXmZ8cFcfXJDYL0jXUK/aWAKzeiPhCP1ut7nivcio8SXIulQ/vvR7DCYdaOeedeV51Po09e6OJ+fU5/13bnTD/OD235H9slIEDJ6WvI40PlXsBO5OWhfwvMIdKVZD2mqCob6yf4v9lVNItUlRB3c6zTwSa+rubYPLRtgBy9d5S46FROquNHrTa5qm4LHQ85t+NrS02Ik+mJdpufIQ+w9f5FaHlptkbTHxG79D0ZX+Nw+rPi4FCqvtedlNVj87zPOVdy9D9LN7SxjDcmDETwwQmJ6zYuK3+kHdFQ871N74Wi360h/bdF55VRsPbvfmdiBJHCPe1qvuuYselgHlw7g7rUn7wVCybJihJ5B5+d/wTae6FjLhhUZVZ+EBl31rDi7fxktt0KZ4ajFDVonwP6FMFNnVk+3jq6sj6pmNXg==
+  learner_created: false
+- name: tests/__init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfVgS9Eri_kV2y3xKnSqKW2zNssakK8ilXQfpetV_ZNh9rioA/viewform?usp=pp_url&entry.2103429047=Projects+/+SVD+/+Products+with+n-dimensional+Arrays
+status: Unchecked
+record: -1

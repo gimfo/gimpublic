@@ -1,0 +1,16 @@
+type: marketplace
+title: Python Libraries - NumPy
+language: English
+summary: |-
+  This is an introductory course about the most popular Python library - NumPy.
+  - The course will be most beneficial for learners with some Python skills.
+  - The course covers ndarrays and operations on them, along with some possible applications.
+  - It contains hands-on examples of code implementation and exercises to practice new skills.
+  - The course is based on the official documentation of NumPy.
+programming_language: Python
+environment: unittest
+content:
+- NumPy
+- Projects
+mode: Study
+feedback_link: https://plugins.jetbrains.com/plugin/18302-python-libraries--numpy/reviews

@@ -1,0 +1,45 @@
+type: edu
+files:
+- name: task.py
+  visible: true
+  placeholders:
+  - offset: 138
+    length: 51
+    placeholder_text: '''Check the number of dimensions of the image array'''
+    initial_state:
+      length: 51
+      offset: 138
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: Om6MRI44sPjzeDmK/88Iag==
+  - offset: 197
+    length: 36
+    placeholder_text: '''Check the shape of the image array'''
+    initial_state:
+      length: 36
+      offset: 197
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: vnMefcgFrW/fIDEAjxvD4A==
+  encrypted_text: XxoqTfFTDC5DZgzD72IOyZ1QGfs04yaN0HqNr2dwGjs4cRfn+Wi/KhPmZ2V/Dw5L/dEMnYQq+CvLdAmxQRrB0nHw8leE9wO2ubQOmDV5QntwcGxjibJ5pDbPEqKDepr9pOP8GlbKEZYa8jB+OMvyNu0Lo/5Y/3Sjxsn5cSF0zuAb6zSvDU9m9irce1mn8vtSx1dh7hu4NPWkNvGNQfs3Ibi3ptBZqqVE+PKbsISJQ896inwLv9GoFYccvM4DKaUzftKSRX06psBNS1JOoOB3vIyM5LktGOZ96uBNiptcpslnVYTvaevR2pFcaukTxoKx0Yh7yP7GGFd5VxHnSnFpepHZUltNfcjGzMX/U5JcPt6ItDnBrQTyz43J31g3PtRWQgJMAWMCt0Y8LRnUOBmYZI+qeSm7C9WBuqNOxsgjxrOYtslXFp2QWwXLXTbqEQNmcr3ZPsQcBwgbNiK3RHewaN/oqga/NKW/X2EWTkCQy1o=
+  learner_created: false
+- name: tests/test_task.py
+  visible: false
+  encrypted_text: XIlL2u+4gqNTqO7La77YdUL7aR8p/B/NVC9K2/TYHAWilSYfwUwu8wznnExh+vP4hNJlrj91Z0pL0NEW9qmaTwZbCgrn1v11l+F/LKZULDFk+IKYU5ZSgXPltgQk6z9vqlxxxJYyZgt+AkRjoUDIL1tV01TxbyInuiiaylHfRgx+8xY4o3nSiedLabm7IhKwvXVxXXRjhkLWAZ1N332gUL2SN654VUE4FcPNhVfN0zukZsLeHSyWxhUBeEBsz6AAmlmAUXq3VG/9iwdaEjc/4MbM1XkTz27xOt5TlA57oM7PWGNB+rYrYROXdFVDMX4jWmP2gGUtKO+yRVLDGeB42QTAexdVIiArlLDlQk+UbpIN8w99A0N/MaunBY2tmLw3b732M6YxP433noaUDla5FchSrevsutMEkzOtXSk3r4goqWcLIQEvTQhGvMNZfWQJtMai9yJtQMcAPp6o4NqQzqfsqakIc9yWPaXkAsozJAh9eNKZ9ILie2ucMTvqXQP0GKYUMpq/oC2Mi9B3anMjaM/hWFO3+G1GVjgEEQlSiWTpEnkHOWdXBmfVT73X5TDikrKukuf6IcFLRI3MXPUmxCGEgmJohr6jzcY58uBXKMHeJud+MyB/rKK/x4XpV7NgL+eJP7pCuk0p+lpbjVutg7Yb1pmTAf7j2OxdE8ZQrCC1KSyTjExuUJ1siO73cq3dXRz6/lM1A2zn2G+5TpkV3RSz4C5HC6ClRc3fYOBvhEk92vRYuVMd0e7arS7tcWufijQUwr0kfoekPSH25dYdvw==
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: tests/__init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: horse.jpg
+  visible: true
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfVgS9Eri_kV2y3xKnSqKW2zNssakK8ilXQfpetV_ZNh9rioA/viewform?usp=pp_url&entry.2103429047=Projects+/+SVD+/+Load+Image
+status: Unchecked
+record: -1

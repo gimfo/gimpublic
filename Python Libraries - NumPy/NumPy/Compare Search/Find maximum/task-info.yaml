@@ -1,0 +1,56 @@
+type: edu
+custom_name: Find Maxima
+files:
+- name: task.py
+  visible: true
+  placeholders:
+  - offset: 27
+    length: 13
+    placeholder_text: '# Import data'
+    initial_state:
+      length: 13
+      offset: 27
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: CFThRxP5x2InEuS9xYh/+7fWxrtWU2rX/GCOXzZq87dbJ29WTXJmuaCdqSoCzYqhDfS/N0+Bt8Cs8YqsioqqOg==
+  - offset: 50
+    length: 44
+    placeholder_text: '# Find indices of maximum values in each row'
+    initial_state:
+      length: 44
+      offset: 50
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: +ep0YEe+OyhN5WvId1cOdXAkmUHptFiu0/xWpDgxvZRoekGCBzyfhCO7PcRJq8umypCErbNOE4ulYfiuGp99GA==
+  - offset: 104
+    length: 44
+    placeholder_text: '# Extract the maximum elements from each row'
+    initial_state:
+      length: 44
+      offset: 104
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: bSgffy3M7HlSwooY+Q26dL3c9/IUgA/VbZi86AXF0vTN8ly/uirkqaXzYNtWl3VB
+  encrypted_text: rWaGTjF1uCxfAA1JULqDg38IHWuktE/wzMfyNp6tondmEnoJVc+/R1QwoZlvesvdNQKjHeJIc/TNljXX59vHCe6oE4nf1wc9StQZVrQie6g33YvQcqYuKc3J2jkuivHoABXbFSpj7al9z3oIMS0e6Hb6Ljk8j76MDiEzC1FMbhgThbThWBHZJd9z1756kzjON1wtOgnYYZz4GYYsJT7viIJBspLXPHQw8UAqWVjDT6PvNkgJCCrq5vc3l735Rurnai2UvRZbefrgKmB0xS+M1w==
+  learner_created: false
+- name: tests/test_task.py
+  visible: false
+  encrypted_text: XIlL2u+4gqNTqO7La77YdRynr5SKXsUjVOXfwEVQY1SQBRqOmMK4fWCM+s5FPPvWAkAqxo8W2wziBfszmIfJp856c7pWQAdCMPY0lOarVh/UH7cN2g2tjvn9/o/XYui6LXQwIJsUWCq0vcobSSUzfKhyvdN3JKIQJLhcPGSrm5e/LZRl6rowcCci1saIjcWzqY1IDmi5fun8H6u8HAL4AXrAVtkmjFu8FwN6TS5XXtngzvgkIFwxq1P9LpRw7RNScKKeyB1oGxaVAYgJulsnR4Ozv8PKDIq4zRTJyp854sdcFbk1V11DMbF6+YiHkH9gERQ0HGw3X/m+yqG8nZvDi9hYgAvi3TYRs0jmfjUUu9CeXu0nxUS7ku+kFfgG0Fij+emTw8fEIxQ6DPtoEkAlX7u5RaCe+uyik2cij4ZSEDK5XLJcyXEwQwDp1YmNcqiudcL8ApOUUXssNetRLPmxbbes+tF1ybz2+PF5hIu/Ie0sFNdAjoI9pDTeIRFU/hBIRKmBOhLXdK57sSs6ld3mF7bnkthDqoIx039HSQmgq6zRybGq9aDY8LDRb/Z9Qgkn6J9nEw/pjCyPn6ZGsmbMjFDawUau/Xq5ndk/9fPd90i59qzzGVqDuz11yjsu8QFGGFGe2rULrSdACCScdVSK4s9d9PcUKskB0FJG9fpcblJaqN0ejBWJgMAxk2N2GxkuYZnvinBuaaFCg8K21sYsAywd/muyP/p6AMf5USlMLwp5+WpvaBdFFo/L6Oo1JwIP
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: tests/__init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: data.csv
+  visible: true
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfVgS9Eri_kV2y3xKnSqKW2zNssakK8ilXQfpetV_ZNh9rioA/viewform?usp=pp_url&entry.2103429047=Compare+Search+/+Find+Maxima
+status: Unchecked
+record: -1

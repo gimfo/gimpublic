@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: task.py
+  visible: true
+  encrypted_text: rWaGTjF1uCxfAA1JULqDg30P5OUKSXQDxj5wkK99WuBqCUVjPUeyjqgxqSvnWaEiXJ6DtcD4Pq0Qt507s2bDKL9u/HHGtqNDj7UCLmC+u5UcBDSPkJkd6/e9UITfU4rBqdpekiIBFDEc5/4Uvu3ZVXccz3Sw4Y8ZVwTp4Fpi4aPUGMn6wGgmW2haWml3TVv+IfdycE9T2FT15I4Gx8UrY92j4Ji3IvnlJAt+Gu0a6wYfT3Zya0OQG4aEwnfYB/G1sRiPKQqgqkBRIKTKvof6kfTRjli1C9WwcDYexNKG69U07TrYx8JEAIgs3iLgvPItaix68GDfmBpzaw/qjTBbsUKRKIn4XFZt+D0ODmTgMrwQqW9wry3bCLJcjIWIvOg/
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfVgS9Eri_kV2y3xKnSqKW2zNssakK8ilXQfpetV_ZNh9rioA/viewform?usp=pp_url&entry.2103429047=Projects+/+SVD+/+Introduction
+status: Unchecked
+record: -1
+post_submission_on_open: true
